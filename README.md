@@ -36,7 +36,7 @@ You're managing a YouTube channel with hundreds (or thousands) of videos — say
   - Role: Write an engaging blog post using the researcher's output
   - Behavior: Converts summaries into structured articles
 
-### 🛠 Tasks
+###  Tasks
 
 - **Research Task**: 
   - Extract transcript and generate a three-paragraph summary
@@ -96,7 +96,7 @@ OPENAI_API_KEY=your_openai_key
 
 ---
 
-## ▶ Running the Project
+##  Running the Project
 
 ```bash
 python crew.py --topic "Neural Networks vs Decision Trees"
